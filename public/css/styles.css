@@ -1,0 +1,71 @@
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+   box-shadow: 0 5px 5px #41FAFA;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: white;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 15px;
+  color: black;
+}
+
+.btn-primary{
+  margin-top: 10px;
+}
+
+.float-button {
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  background-color: white;
+  border-radius: 20px;
+  font-size: 30px;
+  text-align: center;
+position: fixed;
+ right: 20%;
+top: 85%;
+z-index: 9999;
+cursor: pointer;
+ box-shadow: 0 0 15px #41FAFA;
+ padding-bottom: 3%;
+}
+.float-button:hover {
+color: red;
+}
+p{
+
+  font-size: 18px;
+}
+.composeCopy{
+margin-top:25%;
+text-align:center;
+}
+ li{
+  padding-bottom: 5px;
+} 
