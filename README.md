@@ -1,0 +1,2 @@
+# blog
+npm init -y
